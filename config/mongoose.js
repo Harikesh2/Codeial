@@ -1,4 +1,4 @@
-const mongoose = require('mongoose');
+
 // require the library
 const mongoose = require('mongoose'); 
 // connect to the database
